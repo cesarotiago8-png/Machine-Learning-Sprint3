@@ -1,6 +1,6 @@
 # 🚜 Prevenção de Sinistros em Equipamentos Agrícolas 
 **Disciplina:** Machine Learning (Sprint 3)  
-**Equipe Oasis:** Adalberto Alves Cruz, Bruno Henrique Ferreira Ambrosio, Gustavo da Silva Nascimento, Lucas Maximo dos Santos, Renan de Assis Rodrigues, Tiago Thomaz Cesaro.
+**Equipe Outliers:** Adalberto Alves Cruz, Bruno Henrique Ferreira Ambrosio, Gustavo da Silva Nascimento, Lucas Maximo dos Santos, Renan de Assis Rodrigues, Tiago Thomaz Cesaro.
 
 ---
 
